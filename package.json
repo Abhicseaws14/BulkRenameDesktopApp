@@ -1,0 +1,19 @@
+{
+  "name": "bulkrenamedesktopapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhicseaws14/BulkRenameDesktopApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhicseaws14/BulkRenameDesktopApp/issues"
+  },
+  "homepage": "https://github.com/Abhicseaws14/BulkRenameDesktopApp#readme"
+}
